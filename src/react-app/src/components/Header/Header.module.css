@@ -1,0 +1,27 @@
+.navHeader {
+    
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 3%;
+    padding-top: 4%;
+    
+    text-align: right;
+}
+.navFont{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.navFont:hover{
+    color: #718daa;
+}
+.navFont:active{
+    color: #718daa;
+}
+.logo{
+    margin-top: 2%;
+    margin-left: 3%;
+    float: left;
+    width: 100px;
+    height: 100px;
+    
+  
+}

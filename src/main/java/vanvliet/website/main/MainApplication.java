@@ -1,6 +1,6 @@
 package vanvliet.website.main;
 
-import org.hibernate.internal.util.collections.Stack;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

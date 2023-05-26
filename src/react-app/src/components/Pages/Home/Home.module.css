@@ -1,0 +1,18 @@
+.home-item{
+    background-color:beige;
+    border-style: solid;
+    display: inline-block;
+}
+.home-container{
+    
+    border: solid black 4px;
+    position: fixed;
+    text-align: center;
+    border-radius: 20px;
+    top: 15%;
+    bottom: 15%;
+    left: 10%;
+    right: 10%;
+    background-color: #ffffff;
+    
+}
