@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './Home.module.css';
 import Header from '../../Header/Header';
+import Footer from '../../Footer/Footer';
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <div className={styles['home-image-container']}>
         <img className={styles['home-image']} src="/displayPic.jpg" alt="Erik Van Vliet" />
       </div>
+      <Footer />
     </div>
   );
 }
