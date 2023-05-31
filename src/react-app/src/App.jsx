@@ -4,7 +4,7 @@ import './App.css';
 import './css/header.css';
 import Home from './components/Pages/Home/Home';
 import Background from './components/Background/Background';
-import About from './components/Pages/About';
+import About from './components/Pages/About/About';
 
 function App() {
   return (

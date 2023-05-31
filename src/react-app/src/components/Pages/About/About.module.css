@@ -1,0 +1,51 @@
+.home-item {
+    background-color: beige;
+    border-style: solid;
+    display: inline-block;
+}
+
+.home-container {
+    border: solid black 4px;
+    position: fixed;
+    text-align: center;
+    border-radius: 20px;
+    top: 15%;
+    bottom: 15%;
+    left: 10%;
+    right: 10%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 20px 1px #000000;
+}
+
+.home-content {
+    margin: 20px;
+    float: left;
+
+}
+
+.home-title {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 5px;
+    text-align: left;
+}
+
+.home-subtitle {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px;
+    text-align: left;
+}
+
+.home-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    text-align: left;
+}
+
+.home-image {
+    width: 20%;
+    height: 20%;
+    border-radius: 20px;
+}
